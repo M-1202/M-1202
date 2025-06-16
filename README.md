@@ -1,7 +1,7 @@
 <p align="center">
 <h2 height="200px" align="center">Hey! I am  M-1202 <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 
-<h2 align="center">A passionate Golang backend development engineer from China</h2>
+<h2 align="center">A passionate front-end development engineer from China</h2>
 
 <img src="https://raw.githubusercontent.com/M-1202/M-1202/output/github-contribution-grid-snake.svg"/>
 
